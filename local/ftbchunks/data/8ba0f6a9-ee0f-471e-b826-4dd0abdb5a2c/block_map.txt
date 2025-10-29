@@ -635,3 +635,4 @@
 #E92F44 gtceu:zpm_output_hatch
 #741D43 gtceu:zpm_substation_output_hatch_64a
 #4F7CF8 gtceu:zpm_transformer_1a
+#4F7D17 gtceu:zpm_transformer_2a
